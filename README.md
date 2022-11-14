@@ -1,6 +1,6 @@
 # Body Mass Index Calculator Program
 
-This program that calculates body mass index was created using the Java programming language. The aim of the program is to calculate your body mass index by entering the asked weight information in kilograms and the height information in meters. 
+This program that calculates body mass index was created using the Java programming language. The purpose of the program is to calculate your body mass index by entering the asked weight information in kilograms and the height information in meters. 
 
 ## Which Development Tool Was Used?
 
