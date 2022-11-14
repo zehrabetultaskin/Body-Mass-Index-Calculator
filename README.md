@@ -1,21 +1,18 @@
-# Vücut Kitle İndeksi Hesaplayan Program
+# Body Mass Index Calculator Program
 
-Vücut kitle indeksi hesaplayan bu programı Java programlama dili kullanılarak oluşturuldu. Programın amacı sorulan kilo bilgisini kilogram cinsinden, boy bilgisini de metre cinsinden girerek vücut kitle indeksinizi hesaplatmaktır. 
+This program that calculates body mass index was created using the Java programming language. The aim of the program is to calculate your body mass index by entering the asked weight information in kilograms and the height information in meters. 
 
+## Which Development Tool Was Used?
 
-## Hangi Geliştirme Aracı Kullanıldı?
+The IntelliJ IDEA development environment was used to write this program. 
 
-Bu program yazılırken IntelliJ IDEA geliştirme ortamı kullanılmıştır. 
+## Where Can I Find the Main Codes?
 
+You can access the main codes from the Main.java file under the src/com/company directory.
 
-## Ana Kodlara Nereden Ulaşabilirim?
+## Who Owns This Project?
 
-Ana kodlara src/com/company dizini altındaki Main.java dosyasından ulaşabilirsiniz.
-
-
-## Bu Proje Kime Ait?
-
-Bu proje [Zehra Betül Taşkın](https://github.com/zehrabetultaskin/) tarafından oluşturulmuştur.
+This project was created by [Zehra Betül Taşkın](https://github.com/zehrabetultaskin/).
 
 ----
 
