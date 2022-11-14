@@ -10,7 +10,7 @@ The IntelliJ IDEA development environment was used to write this program.
 
 You can access the main codes from the Main.java file under the src/com/company directory.
 
-## Who Owns This Project?
+## Whose Project Is This?
 
 This project was created by [Zehra Betül Taşkın](https://github.com/zehrabetultaskin/).
 
